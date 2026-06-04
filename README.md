@@ -1,12 +1,12 @@
-### About Me :
+## About Me
 
   - 👋 Hi, I’m Bipul.
   - 👨‍💻 I have a natural eye for detail and a habit of catching inconsitencies that others tend to overlook.
   - 📫 How to reach me: kun.bipul@gmail.com
   
----
 
-### Tech Stack
+
+## Tech Stack & Tools
 
 **Languages**  
 
